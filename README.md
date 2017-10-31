@@ -1,2 +1,2 @@
 # 2nd Year Notes
-My notes forAberystwyth University's 2nd year CompSci Course.
+My notes for Aberystwyth University's 2nd year CompSci Course.
