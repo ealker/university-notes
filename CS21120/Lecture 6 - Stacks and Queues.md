@@ -1,0 +1,77 @@
+#CS21120 Lecture 6 - Stacks and Queues
+
+Friday, October 13th 2017  
+Lecture: c.zarges@aber.ac.uk  
+Notes: ela12@aber.ac.uk
+
+## Stack Implementation 
+
+Stacks can be implemented using either arrays or linked-lists.
+We are considering arrays with fixed capacity, therefore: 
+
+```java
+public E push (E element)
+```
+to 
+
+```java
+public E push (E element) throws FullStackException
+```
+Translating concepts to dynamic arrays is easiest. 
+
+### Array Based 
+
+In an array, the only place to insert and remove elements efficiently is at the end of the array &therefore; the top of the stack is at the 'end' of the array since we can insert and delete elements in constant time only at the end. 
+
+This is a really efficient implementation of the stack functionality that we want. 
+
+> Exceptions - You can declare your own exceptions, but the Java collections framework provides exception for stack implementations
+
+### List Based
+
+In a singly linked list implementation of The Stack Abstract Data Type, it's more efficient to insert and remove elements at the start of the list (because of the efficiency of operations on linked lists). Since we have "push" functionality from our own implementation of linked lists (`addNew()` method). The "pop" functionality is `removeFirst()` but we need to alter that method by ensuring that we return the element that we removed. 
+
+## Summary
+
+As both use linear space &theta;(_n_) and runtime in contstant time &theta; (1), in practice the constants to lower order terms that we normally ignore in asy. notation are the most imporant factors in deciding the implementation of the stack. 
+
+Stacks in the Java framework: `java.util.Stack<E> (Legacy)` is the legacy stack framework. 
+`java.util.Deque<E> (Interface)` is a double ended queue which can also be used as a stack. `java.util.LinkedList<E>` is the list implentation of the Deque interface. `java.util.ArrayDeque<E>` is the array implementation of the Deque interface. 
+
+## The Queue ADT 
+
+The Queue ADT is a collection of objects that are inserted and removed according to the FIFO principle. 
+
+The main functionality that we want: 
+
+- Elements are inserted at any time, but only the element that has been in the queue longest can be removed next. 
+- Elements are added to the back, and removed from the front. 
+
+## Applications 
+
+- Using shared resources (Printer)
+- Waiting lists (restaurant)
+- Call centre on-hold queue
+- Air traffic control
+- Virtual queues for online ticket sales
+- Auxillary data structures for algorithms 
+
+### Round Robin Schedulers
+This is a stratgey used in process and network scheduling: equally sized time slots are assigned to each process in circular order. 
+### Steaming Videos 
+Buffer to smooth video connections if you have a poor internet connection.
+
+## Queue Implementation 
+
+Queues can be implemented using either arrays or linked-lists. Arrays with fixed capacity (same for stack ADT):
+
+- Add to one end of the array, remove from the other.
+- What happens when we get to the end of the fixed-size array?
+
+### Array Based
+
+As queues follow the FIFO principle, it would be inefficent to remove the first element of the array and then shift all of the following elements to the left. It is therefore much more efficient use a circular array implementation. 
+
+### Lised Based 
+
+## Summary and Outlook
