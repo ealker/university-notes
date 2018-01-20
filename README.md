@@ -9,14 +9,14 @@ My notes for Aberystwyth University's 2nd year CompSci Course.
 
 ### CS23820 - C, C++ and Unix Environments 
 
-[Module Link](https://www.aber.ac.uk/en/modules/deptcurrent/CS23820
+[University Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS23820}
 
-[link](/CS23820)
+[CS23820 Notes](/CS23820)
 
 ### CS21120 - Program Design, Data Structures and Algorithms
 
-[Module Link](https://www.aber.ac.uk/en/modules/deptcurrent/CS21120)
+[University Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS21120)
 
 ### CS27020 - Modelling Persistent Data
 
-[Module Link](https://www.aber.ac.uk/en/modules/deptcurrent/CS27020/)
+[University Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS27020/)
