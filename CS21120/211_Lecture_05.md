@@ -1,4 +1,4 @@
-#CS21120 Lecture 5 - Basic Data Structures and The Stack Abstract Data Type
+# CS21120 Lecture 5 - Basic Data Structures and The Stack Abstract Data Type
 
 Thursday, October 12th 2017  
 Lecture: c.zarges@aber.ac.uk  
