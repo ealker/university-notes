@@ -9,7 +9,9 @@ My notes for Aberystwyth University's 2nd year CompSci Course.
 
 ### CS23820 - C, C++ and Unix Environments 
 
-[Module Link](https://www.aber.ac.uk/en/modules/deptcurrent/CS23820/)
+[Module Link](https://www.aber.ac.uk/en/modules/deptcurrent/CS23820
+
+[link](/23820)
 
 ### CS21120 - Program Design, Data Structures and Algorithms
 
