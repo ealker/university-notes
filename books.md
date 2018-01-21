@@ -14,5 +14,5 @@ University reading lists can be found [here](http://aspire.aber.ac.uk/index.html
 - **Data structures and algorithms in Java** by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser.
   + Covers fundamental data strcutures, ADTs and algorithms. I found this incredibly helpful for understand concepts ready for tutorials (seminars) and the coded examples helped when I needed to complete worksheets. 
 
-- **[Open Data Structures]**(http://opendatastructures.org/)
+- **[Open Data Structures](http://opendatastructures.org/)**
   + Clear examples of data structures and by far the most accessible resource on this topic; there is a version for every major programming language. 
