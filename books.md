@@ -6,4 +6,4 @@ University reading lists can be found [here](http://aspire.aber.ac.uk/index.html
 
 ### CS27020
 
-**Database systems: a practical approach to design, implementation, and management** by Thomas M. Connolly, Carolyn E. Beg
+- **Database systems: a practical approach to design, implementation, and management** by Thomas M. Connolly, Carolyn E. Beg
