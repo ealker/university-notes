@@ -14,6 +14,10 @@ My notes for Aberystwyth University's 2nd year CompSci Course.
 [CS21120 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS21120)  
 [CS21120 Notes](/CS21120)
 
+### CS22120 - Software Engineering
+
+[CS22120 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS26520/AB0/)
+
 ### CS23820 - C, C++ and Unix Environments 
 
 [CS23820 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS23820)  
@@ -24,7 +28,11 @@ My notes for Aberystwyth University's 2nd year CompSci Course.
 [CS26020 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS26020/AB0/)  
 [CS26020 Notes](/CS26020)
 
+### CS26520 - Artificial Intelligence
+
+[CS26520 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS26520/AB0/)
+
 ### CS27020 - Modelling Persistent Data
 
-[CS27020 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS27020/)
+[CS27020 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS27020/)  
 [CS27020 Notes](/CS27020)
