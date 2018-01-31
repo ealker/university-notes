@@ -83,12 +83,12 @@ Look at these standards: QA Document SE.AQ.01-10
 
 ## By Next Week 
 
-- Put dates in calendar. 
-- Learn about source control. 
-- Set up a blog for the project and provide the link to your tutor. 
-- Read the Requirements Spec for the project and note any items that are vague. 
-- Read the project documentation. 
-t
+- Put dates in calendar. [DONE]
+- Learn about source control. [DONE] 
+- Set up a blog for the project and provide the link to your tutor. [DONE]
+- Read the Requirements Spec for the project and note any items that are vague. [DONE]
+- Read the project documentation. [DONE]
+
 
 
 
