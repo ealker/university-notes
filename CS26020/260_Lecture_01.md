@@ -1,7 +1,7 @@
 # CS26020 Lecture 1
 ## Introduction to Robotics and Embedded Systems
 __Monday, January 29th 2018__  
-Lecture: dap@aber.ac.uk   
+Lecture: mxw@aber.ac.uk   
 Notes: ela12@aber.ac.uk
 
 ### General Module Information 
