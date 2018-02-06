@@ -1,4 +1,4 @@
-# CS22120 Introductory Lecture 
+# CS22120 Lecture 1 - Introduction to Software Engineering 
 
 Friday January 26th 2018 
 Lecturer: Chris Price 
