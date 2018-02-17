@@ -1,7 +1,7 @@
 # CS22120 Lecture 2 - Source Control 
 
 Friday January 26th 2018 
-Lecturer: Chris Price 
+Lecturer: Chris Price   
 Notes: Elliot Alker 
 
 "Joel Spolsky (Stack Overflow) says it is the most important thing a project team can do."

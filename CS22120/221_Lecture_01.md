@@ -1,10 +1,10 @@
 # CS22120 Lecture 1 - Introduction to Software Engineering 
 
-Friday January 26th 2018 
-Lecturer: Chris Price 
-Notes: Elliot Alker 
+Friday January 26th 2018   
+Lecturer: Chris Price   
+Notes: Elliot Alker   
 
-"I said "Developing Software Professionals" was at the heart of second year. 
+"I said "Developing Software Professionals" was at the heart of second year."
 
 ### Breakdown 
 75% Group Project 
