@@ -21,7 +21,7 @@ How do we express a good design so that others can understand it?
 
 ## What is good design? 
 
-[Good Desing - Dieter Rams](https://www.vitsoe.com/gb/about/good-design)  
+[Good Design - Dieter Rams](https://www.vitsoe.com/gb/about/good-design)  
 [Simplicity - Jonathan Ive](https://www.youtube.com/watch?v=1jdPKi5i030)
 
 The design of a piece of software should only be as complex as it needs to be.   
