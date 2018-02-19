@@ -71,7 +71,7 @@ A type of logic that recognises more than sumple true and false values. Proposit
 - **Membership Functions, &mu; :**
     - For any fuzzy set A accossiates each element, x, with a membership value in [0,1]
 
-    ![Membership Functions](/265_img/26510_membershipfunc.png)
+    ![Membership Functions](./265_img/26510_membershipfunc.png)
 
 
 - Fuzzy Variables: 
