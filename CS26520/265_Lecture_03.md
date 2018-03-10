@@ -53,7 +53,7 @@ There are two key aspects in developing a language for KR:
     - It is difficult to separate factual data from the code of the program. 
 - Recipes 
     - The same semantics that procedural languages implement, but in a natural language like English or Welsh.   
-    
+
 Example:
 
 1) Place butter in a saucepan.  
@@ -82,6 +82,61 @@ Example:
         - Remove data from working memory.
         - Alter values in working memory.
         - Send messages to user/external system.
+    
+#### A Note on Production Systems and Rule Firing
+
+- When a rule with matching conditions is found, the action part of the rule is executed.
+- Called firing the rule.
+- Forward chaining.
+- Some conflict resolution may be involved.
+- Control flow is not sequential, unlike procedural languages.
+
+## Pros & Cons of Knowledge Representation Schemes
+
+- Logic
+    - Pros
+        - Well established theoretical foundations, with simple, economical notation based on mathematical logic. 
+        - Well suited to describing passive, declarative knowledge.
+        - Inference mechanisms allow information retrieval and problem solving.
+        - Inference mechanisms are well understood and simple to implement.
+    - Cons 
+        - Difficult to represent temporal, heuristic, and uncertain knowledge using logic.
+        - Large knowledge bases must be well organised to be efficient, as every item in the knowledge base may be examined.
+        - It is difficult to represent procedural knowledge using logic.
+        - Difficult to represent heuristics or time knowledge.
+        - As with all symbolic schemes, programs can seem more intelligent than they really are.
+
+- Semantic Networks
+    - Pros 
+        - The formal theory makes semantic networks easy to understand. 
+        - This is made easier still with graphic visualisations.
+        - Elements that are related will appear next to teach other in the knowledge base which makes partitioning and contextual reasoning easier. 
+        - Properties can be inherited from parent nodes - child classes can inherit from base class. 
+    - Cons
+        - Foundations and theory are not as well understood as those of logic.
+        - Inheritance can cause problems - the [diamond problem](https://en.wikipedia.org/wiki/Multiple_inheritance#The_diamond_problem). 
+        - Very difficult to represent temporal or procedural knowledge.
+        - A special kind of representation would be needed to reproduce the rich semantics of logic. 
+
+- Frames
+    - Pros
+        - Allows inheritance of properties. 
+        - Allow the combination of procedural and declarative knowledge.
+        - Inference can be guided by local links. 
+    - Cons 
+        - No formal theory unlike propositional logic and first order predicate calculus.
+        - No history of changes to system.
+        - No standards. 
+
+- Production Systems 
+    - Pros
+        - Simple rule structure and inference engine.
+        - Rules can be read backward to “explain” reasoning.
+        - Allows declarative and imperative knowledge to be combined.
+        - Data can be separated from control code.
+    - Cons 
+        - Forward chaining means predicting execution flow is very difficult (has implications for testing and reliability).
+        - Constructing rule sets can be difficult.  
 
 
 ## Logic Terms 
@@ -105,3 +160,4 @@ The following terms are described in more detail in Chapter 7 of Russel & Norvig
 - A reasonable question to ask is _"How do we know that the knowledge base is true in the real world?"_
     - Knowledge Base is just syntax inside the agent's mind. 
     - The agent's sensors connect the real world to the knowledge base.
+
