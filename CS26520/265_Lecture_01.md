@@ -108,10 +108,16 @@ AI is **not** the emulation of conscious beings. There are various approaches to
 - Human or Rationality (Doing the **'right'** thing)
 
 This creates a matrix to examine when approaching the design of an AI system:  
-| Systems that **think** like humans (cognitive science) | Systems that **think** rationally (logic) |   
-|--------------------------------------------------------|-------------------------------------------|
-| Systems that **act** like humans (c.f. Turing test)    | Systems that **act** rationally (agents)  | 
-                                                       
+| Systems that **think** like humans (cognitive science) 	| Systems that **think** rationally (logic) 	|   	|   	|   	|
+|--------------------------------------------------------	|-------------------------------------------	|---	|---	|---	|
+| Systems that **act** like humans (c.f. Turing test)    	| Systems that **act** rationally (agents)  	|   	|   	|   	|
+|                                                        	|                                           	|   	|   	|   	|
+|                                                        	|                                           	|   	|   	|   	|
+|                                                        	|                                           	|   	|   	|   	|
+|                                                        	|                                           	|   	|   	|   	|
+|                                                        	|                                           	|   	|   	|   	|
+|                                                        	|                                           	|   	|   	|   	|
+|                                                        	|                                           	|   	|   	|   	|
 
 
 #### Strong vs Weak AI
