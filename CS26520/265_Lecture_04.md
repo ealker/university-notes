@@ -23,7 +23,7 @@ The syntax of propositonal logic defines allowable sentence within the logic.
 Complex sentences are constructed from simple sentences and make use of **logical connectives**. The truth value of a complex sentence depends upon the truth value of the sentence's components and the operations defines by the logical connectives used. The following are the logical connectives in order of precendence:
 
 - &not; (Negation) Inverts the truth of a term.
-    - &not;Q is the inverstion of Q. 
+    - $\neg Q$; is the inverstion of $Q$. 
     - Positive literal = atomic sentence. 
     - Negative liveral = negated atomic sentence. 
 - &and; (Conjunction) Requires both conjoined terms to be true for the whole conjunction to be true. 
@@ -33,8 +33,8 @@ Complex sentences are constructed from simple sentences and make use of **logica
     - &or; comes from the Latin 'vel' meaning 'or'.
 - $\Rightarrow$ (Implication) True if the antecedents (premise) are true while the
 consequents are true. Also true when the antecedents are false.  
-    - P $\Rightarrow$ Q 
-        - “if P is true then Q is true, otherwise I am making no claim”. 
+    - $P \Rightarrow Q$ 
+        - “if $P$ is true then $Q$ is true, otherwise I am making no claim”. 
         - If that's satisfied then the implication is true.
     - Also called a conditional.
     - Also called 'if-then' statements.
@@ -64,7 +64,21 @@ $m_{1} = \{P_{1,2} = false, P_{2,2} = false, P_{3,1} = true\}$.
     - $False$ is false in every model.
     - Truth value of every other propsition is specified in the model. 
 - Complex Sentences: 
+    - $\neg P$ is true iff $P$ is $false$ in $m$.
+    - $P \wedge Q$ is true iff both $P$ and $Q$ are $true$ in $m$.
+    - $P \vee Q$ is true iff either $P$ or $Q$ is $true$ in $m$.
+    - $P \Rightarrow Q$ is true unless $P$ is $true$ and $Q$ is $false$ in $m$.
+    - $P \Leftrightarrow Q$ is true iff $P$ and $Q$ are both $true$ or both $false$ in $m$.
 
 ### Truth Tables 
 ![BNF Grammer of PL Sentences](\265_img\26504_tt.png)
+
+Complex sentences can be tested using truth tables, but this process is arduous and can be very long and repetative. Inference rules can be created that speed up the process: 
+
+For example, &alpha; &Rightarrow; &beta;, but this does not mean that &beta; &Rightarrow; &alpha;. 
+
+### Standard Logical Equivalences
+![Standard Logical Equivalences](\265_img\26504_sle.png)
+![Standard Logical Equivalences](\265_img\26504_sle2.png)
+
 
