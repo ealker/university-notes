@@ -32,3 +32,24 @@ Each behaviour is built from augmented finite state machines. Both AFSMs and FSM
 
 Augmented finite state machines have aded facilities including timing mechanisms (state changes can be delayed), as well as the ability  to hold internal data structures. 
 
+### Types of BBAs 
+
+#### Subsumption Architectures   
+
+- [Prof. Rod Brooks](http://people.csail.mit.edu/brooks/index.html), MIT (1980 - )
+
+- Tenants of Subsumption Architectures  
+    - The world is its own best model.   
+    - Against building world models/explicit symbolic representation reasoning.
+    - Robots should be cheap/simple. 
+    - Robustness is a design goal.
+    - Onboard computation is vital. 
+    - Systems are built incrementally.  
+
+
+#### Action-Selection Architecture 
+- Pattie Maes (1989)
+
+#### Voting Architecture
+- D. W. Payton (1986)
+
