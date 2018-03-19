@@ -53,7 +53,7 @@ Data mining is not a set of tools. It should be thought of as process.
 ### Data Preparation 
 
 - Dealing with missing values. 
-- Removing or reducing "noise" from the data that could cause the data to be misleading. 
+- Removing or reducing noise from the data that could cause the data to be misleading. 
     - Sometimes there might be redundant data (lots of idential data points).
 
 - Feature selection - finding the data that doesn't have any bearing on the problem. 
@@ -63,6 +63,10 @@ Data mining is not a set of tools. It should be thought of as process.
 ### Data Reduction 
 
 ## Classification 
+
+**Given a collection of records/instances (a training set), we want to find a model for the class feature as a function of the values of the other features.**
+
+**Goal: previously unseen instances should be assigned a class as accurately as possible.** 
 
 ## Clustering 
 
