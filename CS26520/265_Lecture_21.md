@@ -68,7 +68,36 @@ Data mining is not a set of tools. It should be thought of as process.
 
 **Goal: previously unseen instances should be assigned a class as accurately as possible.** 
 
+Example: Fish packaging plant automating process of packaging Salmon and Seabass.
+
+Preprocessing &rightarrow; Feature Extraction &rightarrow; Classification 
+
+Errors in the example: 
+
+- Insufficient training data. 
+- Too few features. 
+- Too many irrelevant features. 
+- Overfitting (too much training). 
+
+### Applications of Classification 
+
+- Direct Marketing 
+    - Goal: Reduce cost of mailing by targeting a set of consumers likely to buy a new product. 
+    - Approach: Use data for a similar product introduced previously. 
+        - {buy, don't buy} is the class feature. 
+        - Collection various demographic, lifestyle, company-interaction information.
+        - Use this data as input features. 
+- Customer Attrition (Churn)
+    - Goal: Predict if a customer is likely to be lost to a competitor. 
+    - Approach: Use detailed record of transactions with each of the past and present customers. 
+
 ## Clustering 
+
+**Given a set of data points (instances), find clusters using a similarity measure such that data points in one cluster are more similar to one another, and data points in separate clusters are less similar to one another.**
+
+Similarity Measures: 
+
+### Applications of Clustering 
 
 ## Association Rule Mining 
 
