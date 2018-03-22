@@ -1,4 +1,4 @@
-# CS26520 Lecture 19
+# CS26020 Lecture 19
 ## Deliberative Systems
 __March 12th 2018__  
 Lecture: mxw@aber.ac.uk   

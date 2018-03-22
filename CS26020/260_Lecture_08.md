@@ -1,4 +1,4 @@
-# CS26520 Lecture 8
+# CS26020 Lecture 8
 ## Power
 __February 5th 2018__  
 Lecture: ffl@aber.ac.uk   

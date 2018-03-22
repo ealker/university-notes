@@ -1,4 +1,4 @@
-# CS26520 Lecture 20
+# CS26020 Lecture 20
 ## Reactive Systems, Part B
 __Thursday, March 15th 2018__  
 Lecture: mxw@aber.ac.uk   
