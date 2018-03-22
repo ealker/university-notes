@@ -97,6 +97,18 @@ Errors in the example:
 
 Similarity Measures: 
 
+- Market Segmentation
+    - Goal:
+    - Approach:
+        - Something.
+        - Something 2. 
+
+- Document Clustering 
+    - Goal:
+    - Approach:
+        - Something 1. 
+        - Something 2. 
+
 ### Applications of Clustering 
 
 ## Association Rule Mining 
