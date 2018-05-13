@@ -1,6 +1,6 @@
-# CS22120 Lecture 14
-## Requirements Analysis
-__Thursday, March 15th 2018__  
+# CS22120 Lecture 16
+## Software Maintenance
+__Friday, March 23rd 2018__  
 Lecture: cjp@aber.ac.uk   
 Notes: ela12@aber.ac.uk  
 
