@@ -1,5 +1,5 @@
 # CS26520 Lecture 21
-## Data Mining
+## Data Mining - Introduction
 __Monday, March 19th 2018__  
 Lecture: rkj@aber.ac.uk   
 Notes: ela12@aber.ac.uk  
