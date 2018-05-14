@@ -1,37 +1,33 @@
 # CS22120 Lecture 16
 ## Software Maintenance
+
+"The process of changing a software system after it has been accepted and in use."
+
 __Friday, March 23rd 2018__  
 Lecture: cjp@aber.ac.uk   
 Notes: ela12@aber.ac.uk  
 
-These notes are based off of the course notes provided by [Prof. Chris Price](https://www.aber.ac.uk/en/cs/staff-list/staff_profiles/?staff_id=cjp).
+These notes are based off the course notes provided by [Prof. Chris Price](https://www.aber.ac.uk/en/cs/staff-list/staff_profiles/?staff_id=cjp).
 
-## Examples 
+# 
 
-- UK Air Traffic Control 
-- TAURUS (UK Stock Exchange)
-- LAS  
+It is estimated that maintenance accounts for 50% to 70% of the effort involved in the software lifcyle of a commerical system. The type of maintenance a project requires can be categorised as follows: 
 
-## Why is it done so badly? 
+- Adaptive: Modifying software due to environmental changes. 
+- Corrective: Diagnosis and error correction.
+- Perfective: Addition of new features & improvement of system functionality.
+- Preventative: Defensive rewriting & refactoring of code. 
 
-- It's difficult. 
-- It's not coding, so developers don't think that it's productive. 
-- People like to rush through difficult tasks. 
+## Cost 
 
-It's all about asking the correct questions: 
+It is expensive to add functionality to a system once that system has shipped. The cost of perfective maintenance is uually much greater than providing similar functionality when the product is first developed. Factors that contribute to this are: 
 
-- Need to understand the problem domain. 
-- To aqquire the experience of building systems. 
-- You need to have an understanding of the domain that you're working in (finance, pharam, education, etc.) and software engineering. 
-- Need to follow a reigorous, methodical approach. 
+- Expense of brining in experiences staff and training them up to a working knowledge of the system. 
+- Legacy systems were developed before modern software engineering techniques were developed or put into practice. 
+- Often additions to code introduce new faults to a previously working system.
+- As new code is written, the strucutre of the codebase may degrade. 
+- Links (physical or otherwise) are lost between the system and its associated documentaiton. 
 
-## Decide on Requirements 
+## Cost Reduction Methods 
 
-- Functional 
-    - Item 1.
-    - Item 2.
-- Non-Functional 
-    - Item 1.
-    - Item 1.
-
-
+It is essential to keep the initial system design simple and efficient. The best way to reduce the possibility of expensive future maintenance is to consider maintainence in the system's inital design. 
