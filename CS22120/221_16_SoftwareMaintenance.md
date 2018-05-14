@@ -42,7 +42,7 @@ Maintaining system documentation is also important. Ideally a maintenance guide 
 - Error codes and their explanations.
 
 Ideally, the system would also have a robust requirement specification, design overview and test reports. 
-Furthermore, regression tests during maintenance ensure that no system functionality is lost. 
+Furthermore, [regression tests](https://en.wikipedia.org/wiki/Regression_testing) during maintenance ensure that no system functionality is lost as the code is improved. 
 
 ### Handling Maintenance 
 
@@ -79,3 +79,13 @@ Refactoring is best completed when you can’t figure out how the code works, an
 
 ### Code Smells   
 
+A "code smell" is an example of "bad code" within a system that can be emblematic of a larger problem. Often, "bad" code is technically correct and will compile/run, however it demonstrates a weakness in the design and architecure of a software system. 
+
+There are many types of "code smells": 
+
+- Long Methods: Robert C. Martin says that "Functions should hardly ever be 20 lines long." 
+- Code Duplication: if code is duplicated, the developer(s) may not have [factored](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the problem correctly. 
+- Large classes: in [SOLID](https://en.wikipedia.org/wiki/SOLID) design thinking, the [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle) states that classes should only encapsulate a single part of the system's functionality. Large classes with lots of conditional code are prime examples of bad Object Oriented Programming practice.
+- Comments: bad comments that describe "what" instead of "why" demonstrate a fundamental lack of understanding on the developer's part. 
+
+More examples of bad code smells can be found on [Coding Horror](https://blog.codinghorror.com/code-smells/) and at [Mika Mantyla's site](http://mikamantyla.eu/BadCodeSmellsTaxonomy.html).
