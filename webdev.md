@@ -7,4 +7,4 @@
 
 ## JS 
 
-- (Square's D3 Tutorial](https://square.github.io/intro-to-d3/web-standards/)
+- [Square's D3 Tutorial](https://square.github.io/intro-to-d3/web-standards/)
