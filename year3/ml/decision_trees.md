@@ -6,21 +6,39 @@ These notes are based off of lectures given at Aberystwyth University by [Neil M
 
 > Reading: Chapter 3 of [_Machine Learning_ by Mitchell](http://profsite.um.ac.ir/~monsefi/machine-learning/pdf/Machine-Learning-Tom-Mitchell.pdf)
 
-## What are decision trees? 
+## Introduction
 
-## When should we use decision trees? 
+### What are decision trees? 
 
-## Why shouldn't we use decision trees? 
+A decision tree
 
-## How do we build decision trees? 
+>> It is a method for approximating discrete-valued functions that
+is robust to noisy data and capable of learning disjunctive expressions.
+
+
+### When should we use decision trees? 
+
+### Why shouldn't we use decision trees? 
+
+## Decision Tree Representation 
+
+### How do we build decision trees? 
+
+### Top Down Induction
 
 ### Choosing the root feature? 
 
 ### Choosing the feature to split upon 
 
-## Entropy 
+## Entropy & Information Gain  
 
-## Information Gain 
+### Entropy 
+
+### Information Gain 
 
 ## ID3 Algorithm 
+
+### Example Usage 
+
+
 
