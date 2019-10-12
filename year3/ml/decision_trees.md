@@ -18,3 +18,9 @@ These notes are based off of lectures given at Aberystwyth University by [Neil M
 
 ### Choosing the feature to split upon 
 
+## Entropy 
+
+## Information Gain 
+
+## ID3 Algorithm 
+
