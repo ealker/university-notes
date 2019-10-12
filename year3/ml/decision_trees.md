@@ -1,5 +1,7 @@
 # Decision Trees 
 
+Machine Learning with bits of Information Theory 
+
 Michaelmas Term 2019 
 
 These notes are based off of lectures given at Aberystwyth University by [Neil Mac Parthalain](https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/ncm/).
@@ -40,11 +42,21 @@ Problems which are not easy to express are XOR;
 
 ### Entropy 
 
-$\Phi$
+Entropy measures the order (uncertainty) of a given data set by examining the homogenity of the items in the set. 
+
+Entropy (S) = 
+
+Where S is an arbitrary collection of examples of a test set.
+
+The binary entropy function is a special case of the the entropy function. 
 
 ### Information Gain 
 
-## ID3 Algorithm 
+Is a heurisitic 
+
+## ID3 Algorithm
+
+The pseudocode algorithm 
 
 ### Example Usage 
 
