@@ -40,7 +40,7 @@ Problems which are not easy to express are XOR;
 
 ### Entropy 
 
-$\epsilon$
+$\Phi$
 
 ### Information Gain 
 
