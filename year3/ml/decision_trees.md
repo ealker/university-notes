@@ -52,7 +52,9 @@ The binary entropy function is a special case of the the entropy function.
 
 ### Information Gain 
 
-Is a heurisitic 
+Information gain is the heurisitic that's used by the algorithm building the tree which determine the feature which it will split upon. The algorithm is looking for the attribute which returns the greatest information gain (and thus most homogenous branches. 
+
+Information gain is based on the decrease in entropy. 
 
 ## ID3 Algorithm
 
