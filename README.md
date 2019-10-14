@@ -6,6 +6,13 @@ Each module has its own folder, and each markdown file is a compelte lecture. So
 
 For a complete list of the modules I'm taking/have taken, visit my personal [university profile](http://users.aber.ac.uk/ela12/).
 
+## 3rd Year Notes 
+
+### CS36110 - Machine Learning
+[CS36110 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS36110/AB0/)
+[CS36110 Notes](/CS36110)
+
+
 ## 2nd Year Notes
 My notes for Aberystwyth University's 2nd year CompSci Course.
 
