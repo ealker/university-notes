@@ -1,6 +1,6 @@
-# Classes and Inheritance 
+# Workshop 6 - Classes and Inheritance 
 
-CS31520 iOS Development, Workshop 6
+CS31520 iOS Development
 
 These notes follow the _App Development with Swift_ book on Apple Books. Lesson 2.4 is Classes and Inheritance. 
 
