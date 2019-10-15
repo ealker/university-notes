@@ -10,7 +10,7 @@ For a complete list of the modules I'm taking/have taken, visit my personal [uni
 
 ### CS36110 - Machine Learning
 [CS36110 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS36110/AB0/)  
-[CS36110 Notes](/CS36110)
+[CS36110 Notes](/CS36110_Machine_Learning)
 
 
 ## 2nd Year Notes
