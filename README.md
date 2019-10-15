@@ -9,7 +9,7 @@ For a complete list of the modules I'm taking/have taken, visit my personal [uni
 ## 3rd Year Notes 
 
 ### CS31520 - iOS Development
-[CS31520 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS31520/AB0/)
+[CS31520 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS31520/AB0/)  
 [CS31520 Notes](/CS31520_iOS)
 
 ### CS34110 - Computer Vision
