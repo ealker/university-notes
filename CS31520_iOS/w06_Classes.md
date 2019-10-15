@@ -1,4 +1,4 @@
-# Classes and Interitance 
+# Classes and Inheritance 
 
 CS31520 iOS Development, Workshop 6
 
