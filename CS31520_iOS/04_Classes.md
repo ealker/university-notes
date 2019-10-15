@@ -1,6 +1,6 @@
 # Classes and Interitance 
 
-CS31520 iOS Development 
+CS31520 iOS Development, Workshop 6
 
 These notes follow the _App Development with Swift_ book on Apple Books. Lesson 2.4 is Classes and Inheritance. 
 
