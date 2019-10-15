@@ -9,7 +9,7 @@ For a complete list of the modules I'm taking/have taken, visit my personal [uni
 ## 3rd Year Notes 
 
 ### CS34110 - Computer Vision
-[CS34120 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS34110/AB0/)
+[CS34120 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS34110/AB0/)  
 [CS34110 Notes](/CS34110_Computer_Vision)
 
 ### CS36110 - Machine Learning
