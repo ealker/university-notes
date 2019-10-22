@@ -1,4 +1,4 @@
-#CS21120 Lecture 7 - The Priority Queue ADT
+# The Priority Queue ADT
 
 Thursday, October 19th 2017  
 Lecture: c.zarges@aber.ac.uk  
