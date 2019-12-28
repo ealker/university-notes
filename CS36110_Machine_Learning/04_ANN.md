@@ -46,7 +46,15 @@ Output nodes give results.
 
 ## Backpropogation 
 
+Backpropogation (backpropogation of errors) is a learning rule (algorithm) for ANNs. 
+
 ## Perceptrons 
+
+If the examples are linearly seperable, use the perceptron training rule. If the training examples are not linearly seperable, then the delta rule with gradient descent algorithm is used. 
+
+### Perceptron Training Rule 
+
+
 
 
 
