@@ -18,6 +18,8 @@ An ANN is made up of various "layers" of "neurons". An input layer of `x` neutro
 
 These units modelled on neurons are called nodes. Each input node brings into the network the value of one independent variable.
 
+A neuron in an ANN will fire when some threshold is reached 
+
 ## What is the motivation behind artificial neural networks?
 
 The original goal was to model the human brain, however, given the previous explanation of how ANN work, problems quickly become apparent. The human brain contains `10^11` neurons, and each neuron is conntected to `10^4 (10,000)` other neurons - the product of those two numbers is ridiculously large. 
@@ -42,8 +44,9 @@ Hidden layers do most of the work.
 Output nodes give results.
 
 
+## Backpropogation 
 
-
+## Perceptrons 
 
 
 
