@@ -16,9 +16,7 @@ An ANN is made up of various "layers" of "neurons". An input layer of `x` neutro
 
 > ... a densley interconnected set of simple units, where each unit takes a number of real-valued inputs (possibly the outputs of other units) and produces a single real-valued output (which may become the input to many other units)."
 
-These units modelled on neurons are called nodes. Each input node brings into the network the value of one independent variable.
-
-A neuron in an ANN will fire when some threshold is reached 
+These units modelled on neurons are called nodes. Each input node brings into the network the value of one independent variable. A neuron in an ANN will fire when some threshold is reached. 
 
 ## What is the motivation behind artificial neural networks?
 
@@ -27,41 +25,29 @@ The original goal was to model the human brain, however, given the previous expl
 A key motivation behind wanting to model the human brain is that it can process multiple "jobs" simletaneously; it can be thought of as a highly parallel distributed system. 
 
 
-======== Lecture 2 ==========
-
-Recap: 
-
-Built on neurons - modelled on biological neuron. We can model very simple functiosn via perceptron. There are many types of neurons with different activation functions (linear, logistic, perceptron).
-
-Perceptron - step funtction output is a function of the vector x and the weights (theta). f = x0theta + x1theta1... xDThetaD. Inputs plus the weights of the inputs. When the sum exceeds the threshold then the output will change. 
-
-An activation function transforms the neurons input into output. A step or sign function is non-differential. 
-
-Each input node --> brings value of one independent variable into the network. 
-
-Hidden layers do most of the work. 
-
 Output nodes give results.
-
-
 
 ## Types of Neurons 
 
-- Perceptrons 
+An activation function transforms the neurons input into output. A step or sign function is non-differential. 
+
+- Perceptrons
+Any single layer perceptron network with a finite number of nodes can apporixmate any continuous function - this is known as the universal approximation theorem. 
+
 - Linear
 - Logistical (Sigmoidal Activation Function)
-
-
 
 ## Backpropogation 
 
 Backpropogation (backpropogation of errors) is a learning rule (algorithm) for ANNs. 
 
-## Perceptrons 
+## How does a network adjust the weights on the nodes? 
 
-If the examples are linearly seperable, use the perceptron training rule. If the training examples are not linearly seperable, then the delta rule with gradient descent algorithm is used. 
+In a single layered artificial neural network, if the examples are linearly seperable, use the perceptron training rule. If the training examples are not linearly seperable, then the delta rule algorithm should be used. 
 
 ### Perceptron Training Rule 
+
+
 
 
 ### Delta Rule 
