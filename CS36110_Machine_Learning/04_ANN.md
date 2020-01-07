@@ -44,6 +44,15 @@ Hidden layers do most of the work.
 Output nodes give results.
 
 
+
+## Types of Neurons 
+
+- Perceptrons 
+- Linear
+- Logistical (Sigmoidal Activation Function)
+
+
+
 ## Backpropogation 
 
 Backpropogation (backpropogation of errors) is a learning rule (algorithm) for ANNs. 
@@ -53,6 +62,11 @@ Backpropogation (backpropogation of errors) is a learning rule (algorithm) for A
 If the examples are linearly seperable, use the perceptron training rule. If the training examples are not linearly seperable, then the delta rule with gradient descent algorithm is used. 
 
 ### Perceptron Training Rule 
+
+
+### Delta Rule 
+
+This uses gradient descent to 
 
 
 
