@@ -48,11 +48,9 @@ In a single layered artificial neural network, if the examples are linearly sepe
 ### Perceptron Training Rule 
 
 
-
-
 ### Delta Rule 
 
-This uses gradient descent to 
+The delta rule uses gradient descent 
 
 
 
