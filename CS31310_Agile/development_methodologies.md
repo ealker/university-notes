@@ -1,6 +1,14 @@
-# Extreme Programming 
+# Development Methodologies 
 
-## What is Extreme Programming?
+
+## About Agile 
+
+
+- Short iterations of 1 - 4 weeks.  
+
+## Extreme Programming (XP)
+
+### What is Extreme Programming?
 
 Extreme Programming (XP) is an Agile software development framework - think of it as an implementation of the Agile principles and ideals. XP has a set [lifecyle](http://www.extremeprogramming.org/map/project.html) which teams can use to manage a project. With traditional project planning, there is a cost of change curve that shows that changes cost different amounts depending on when they are made - a change early in the project is cheaper to make than a change that has to be implemented later. A key motivation behind XP is an attempt to flatten the curve - change should be accounted for and if it is, then the cost of making a change should not rise in proportion to when it is made.   
 
@@ -25,9 +33,18 @@ XP stresses _five_ values:
 - Respect: Between developers and between developers and stakeholders.
 
 
-## FAQ
+### FAQ
 
 Is an iteration 
 
-## User Stories 
+### User Stories 
 
+## Scrum 
+
+Scrum was developed from "the rugby aproach" introduced in a 1986 paper by Takeuchi and Nonaka titled "The New New Product Development Game". 
+
+Ken Schwaber and Jeff Sutherland independently built on this idea until they came together and started to develop the Scrum framework in 1995 when they published a paper at OOPSLA '95. 
+
+The Srcum Master's role is to ensure that the team get the most of the Scrum process
+
+## Kanban / Lean
