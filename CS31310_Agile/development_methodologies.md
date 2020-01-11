@@ -1,26 +1,52 @@
 # Development Methodologies 
 
+## Motivation 
 
-## About Agile 
+Traditional software projects were managed via a model that came to be known as Waterfall. This software development model originated with Royce's paper, _Managing the Development of Large Software Systems_. 
+
+Brook's no silver bullet. Accident and essance - accident is programming langauges. 
+
+Projects late, over budget (Denver airport), catastrophic in some instances (Therac-25)
+
+Problems with ‘traditional’ approaches
+• Project success is just luck
+• Integration nightmares
+• Low sponsor expectations
+• Smelly software: it’s brittle, wrong features, missing features, buggy...
+
+Looking for a better way to do things. Start by looking at what hinders the development process - for example requirements.
+
+In September 2006 Ken Schawber gives a [talk at google](https://www.youtube.com/watch?v=IyNPeTn8fpo&feature=youtu.be&t=48m50s).
+
+## History of Agile 
+
+A group of influential software developer's got together in Utah in 2001 and published a manifesto for "uncovering better ways of developing softeare by doing it and helping others do it. Through this work we have come to value..." 
+
+The manifesto has four points: 
+
+- Individuals and interactions over processes and tools 
+- Wokring software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
 
 
-- Short iterations of 1 - 4 weeks.  
+# Extreme Programming (XP)
 
-## Extreme Programming (XP)
+> Read _The Art of Agile Software Development_ by Shore and Warden
 
 ### What is Extreme Programming?
+
+Detailed by Kent Beck in 1999. “Extreme Programming (XP) is about social change. It is about letting go of habits and patterns that were adaptive in the past, but now get in the way of us doing our best work. It is about giving up the defences that protect us but interfere with our productivity. It may leave us feeling exposed.”
+Kent Beck with Cynthia Andres (2005) Extreme Programming Explained 2nd Edition. Addison Wesley, Boston.
+
+Established on earlier C3 program. 
 
 Extreme Programming (XP) is an Agile software development framework - think of it as an implementation of the Agile principles and ideals. XP has a set [lifecyle](http://www.extremeprogramming.org/map/project.html) which teams can use to manage a project. With traditional project planning, there is a cost of change curve that shows that changes cost different amounts depending on when they are made - a change early in the project is cheaper to make than a change that has to be implemented later. A key motivation behind XP is an attempt to flatten the curve - change should be accounted for and if it is, then the cost of making a change should not rise in proportion to when it is made.   
 
 > Extreme Programming stresses customer satisfaction. Instead of delivering everything you could possibly want on some date far in the future, this process delivers the software you need as you need it.
 
-### History 
 
-Detailed by Kent Beck in 1999. 
-
-Planning Games 
-
-Iterations 
+- Short iterations of 1 - 4 weeks and a total time of 1 - 3 months, versus traditional lifecycle of 3 - 24 months. 
 
 ### Values
 
@@ -33,11 +59,9 @@ XP stresses _five_ values:
 - Respect: Between developers and between developers and stakeholders.
 
 
-### FAQ
+### Motivation 
 
-Is an iteration 
-
-### User Stories 
+Cost of change curve - the later in the development lifecycle the more expensive it is to make a change. XP hopes to flatten the curve.  
 
 ## Scrum 
 
@@ -45,6 +69,18 @@ Scrum was developed from "the rugby aproach" introduced in a 1986 paper by Takeu
 
 Ken Schwaber and Jeff Sutherland independently built on this idea until they came together and started to develop the Scrum framework in 1995 when they published a paper at OOPSLA '95. 
 
-The Srcum Master's role is to ensure that the team get the most of the Scrum process
+The Srcum Master's role is to ensure that the team get the most of the Scrum process.
 
-## Kanban / Lean
+Plannin
+
+# Kanban / Lean
+
+
+
+# Behaviour Driven Development 
+
+# Feature Driven Development 
+
+- Design by feature 
+
+- Develop by feature 
