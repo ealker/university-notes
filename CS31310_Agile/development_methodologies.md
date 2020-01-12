@@ -48,7 +48,7 @@ Extreme Programming (XP) is an Agile software development framework - think of i
 
 - Short iterations of 1 - 4 weeks and a total time of 1 - 3 months, versus traditional lifecycle of 3 - 24 months. 
 
-### Values
+### Values of XP
 
 XP stresses _five_ values: 
 
@@ -59,11 +59,37 @@ XP stresses _five_ values:
 - Respect: Between developers and between developers and stakeholders.
 
 
-### Motivation 
+### Motivation behind XP
 
 Cost of change curve - the later in the development lifecycle the more expensive it is to make a change. XP hopes to flatten the curve.  
 
-## Scrum 
+## XP Practices 
+
+There are twelve XP practices
+
+1. Planning Games
+2. Test Driven Development
+3. Pair Programming
+4. Merciless Refactoring
+5. Simple Design 
+6. Collective Code Ownership
+7. Continuous Integration
+8. On-site Customer
+9. Small releases
+10. Sustainable development
+11. Coding Standards 
+12. Metaphor for the System 
+
+## Review of XP 
+
+
+- “Social Change”
+- XP started on the C3 Project, with Kent Beck as one of the three developers
+- Five XP values
+- 12 practices (originally)
+- Additional clarifying practices
+
+# Scrum 
 
 Scrum was developed from "the rugby aproach" introduced in a 1986 paper by Takeuchi and Nonaka titled "The New New Product Development Game". 
 
@@ -73,11 +99,31 @@ The Srcum Master's role is to ensure that the team get the most of the Scrum pro
 
 Plannin
 
+Three Pillars 
+
+
+1. T
+2. I
+3. A
+
+
+
+
+
+
+
 # Kanban / Lean
 
 
 
 # Behaviour Driven Development 
+
+
+
+
+
+
+
 
 # Feature Driven Development 
 
