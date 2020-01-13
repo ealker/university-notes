@@ -82,7 +82,6 @@ There are twelve XP practices
 
 ## Review of XP 
 
-
 - “Social Change”
 - XP started on the C3 Project, with Kent Beck as one of the three developers
 - Five XP values
@@ -90,6 +89,8 @@ There are twelve XP practices
 - Additional clarifying practices
 
 # Scrum 
+
+Scrum is focused on process management - it describes a process and some rules for that process. 
 
 Scrum was developed from "the rugby aproach" introduced in a 1986 paper by Takeuchi and Nonaka titled "The New New Product Development Game". 
 
@@ -99,20 +100,42 @@ The Srcum Master's role is to ensure that the team get the most of the Scrum pro
 
 Plannin
 
-Three Pillars 
+## Three Pillars 
 
+1. Transparency
+2. Inspection
+3. Adaptation - the process should be fluid; if it's not working, change it. 
 
-1. T
-2. I
-3. A
+## Scrum Teams 
 
+Scrum encourages teams to be self organising. There are various roles in a Scrum team: 
 
+- Scrum Master 
+- Product Owner 
+- Team 
 
+### How does Scrum work 
 
+3. Daily Scrum - this is held every day of the sprint and is a way for the team to plan the activities of the day ahead. 
+4. Sprint Review
+5. Sprint Retrospective
 
+### Scrum Rules 
+
+- No one but the product owner can cancel a Sprint. 
+- Daily standups should only last for 15 minutes. 
+- A sprint review is typically 3 hours. 
 
 
 # Kanban / Lean
+
+Kanban is focused on process improvement. 
+
+
+
+## Features of Kanban 
+
+Features 
 
 
 
@@ -130,3 +153,10 @@ Three Pillars
 - Design by feature 
 
 - Develop by feature 
+
+
+# Summary 
+
+What is the difference between XP, Scrum and Kanban/Lean? 
+
+XP is an agile methodology  

@@ -3,7 +3,7 @@
 
 ## XP Approach to Planning 
 
-XP takes a "planning games" approach to planning software projects. 
+XP takes an approach to planning software projects called "Planning Games". 
 
 > "The emphasis is on steering the project – which is quite straightforward – rather than on exact prediction of what will be needed and how long it will take – which is quite difficult." from [Ron Jeffries](https://ronjeffries.com/xprog/what-is-extreme-programming/)
 
