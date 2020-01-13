@@ -98,7 +98,7 @@ Ken Schwaber and Jeff Sutherland independently built on this idea until they cam
 
 The Srcum Master's role is to ensure that the team get the most of the Scrum process.
 
-Plannin
+A set of rules govern how the scrum team will work.
 
 ## Three Pillars 
 
@@ -110,9 +110,9 @@ Plannin
 
 Scrum encourages teams to be self organising. There are various roles in a Scrum team: 
 
-- Scrum Master 
-- Product Owner 
-- Team 
+- Scrum Master: the team's facilitator. 
+- Product Owner:
+- Team: the other member's of the team. 
 
 ### How does Scrum work 
 
