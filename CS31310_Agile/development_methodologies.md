@@ -129,34 +129,34 @@ Scrum encourages teams to be self organising. There are various roles in a Scrum
 
 # Kanban / Lean
 
-Kanban is focused on process improvement. 
+> _“Kanban systems can be used in any situation in which there is a desire to limit the quantity of things inside a system.”_ - David J. Anderson 
+
+Kanban is focused on process improvement.
+
+Incorporates lean thinking which comes from the Japanese manufacturing sector. 
+
+Not a methodology, but methodologies implement the thinking of Kanban. 
 
 
+## Core Principles
 
-## Features of Kanban 
+Kanban has six core principles.
 
-Features 
+1.
+2.
+3.
+4.
+5.
+6.
 
 
+### Little's Law 
+
+ L = λW 
+
+ Average lead time = average WIP / average throughput 
+
+
+Kanban espouses sustainable development - this can be achieved through personal limits. Rather than letting one experienced team member complete all of the "important" tasks, the team should have the "veteran" coach other team members. Having veterans pair with other members spread the knowledge and reduces the team's risk.
 
 # Behaviour Driven Development 
-
-
-
-
-
-
-
-
-# Feature Driven Development 
-
-- Design by feature 
-
-- Develop by feature 
-
-
-# Summary 
-
-What is the difference between XP, Scrum and Kanban/Lean? 
-
-XP is an agile methodology  
