@@ -25,6 +25,8 @@ Projects: X.Org, JQuery, Node.js, Ruby on Rails, Lua, Jenkins, MS VS Code
 
 ### Apache 
 
+## Copyleft Licenses
+
 ### GPL 
 
 GPL violations - modifying and redistruibtion of code. 
