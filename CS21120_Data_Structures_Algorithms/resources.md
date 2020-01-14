@@ -4,4 +4,4 @@ Data structures and algorithms form part of any decent developer's foundational 
 
 ## Overview 
 
-[http://www.mathcs.emory.edu/~cheung/Courses/323/](Emory University CS323 Course)
+[http://www.mathcs.emory.edu/~cheung/Courses/323](Emory University CS323 Course)
