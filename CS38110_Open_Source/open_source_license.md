@@ -52,3 +52,13 @@ GPLv3 was first published on June 29th 2007.
 The GNU Lesser General Public License allows developers to use software components released under the license in their proprietary projects. Such projects are not then subject to the copyleft clauses that the GPL imposes. However, any modification to a piece of LGPL software has to be released under the same LGPL license. 
 
 ## Proprietary Licenses: 
+
+--- 
+
+# Practice Questions 
+
+### 2016-17
+
+- Question 1 
+  - Provide a detailed discussion of the differences between the Apache License, the GNU GPL and the GNU LGPL. Provide some indications as to why a developer may want to choose one license over another when releasing their own code. [40 marks]
+
