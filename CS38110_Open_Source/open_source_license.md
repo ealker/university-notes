@@ -23,6 +23,8 @@ There are **two main types** of licenses used in open source projects, permissiv
 
 ## Permissive Licenses: Apache, BSD & MIT
 
+Based off of the [lecture](http://users.aber.ac.uk/mjh25/cs381/reveal/L9-Permissive_licenses.html) by [Malcolm Hutchison](https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/mjh25/).
+
 ### Apache 
 
 ### BSD: Berkeley Software Distribution
@@ -50,6 +52,8 @@ GPLv3 was first published on June 29th 2007.
 #### GNU LGPL
 
 The GNU Lesser General Public License allows developers to use software components released under the license in their proprietary projects. Such projects are not then subject to the copyleft clauses that the GPL imposes. However, any modification to a piece of LGPL software has to be released under the same LGPL license. 
+
+#### GPL Violations 
 
 ## Proprietary Licenses: 
 
