@@ -55,10 +55,14 @@ The GNU Lesser General Public License allows developers to use software componen
 
 --- 
 
-# Practice Questions 
+# Relevant Questions from Past Papers 
 
 ### 2016-17
 
-- Question 1 
-  - Provide a detailed discussion of the differences between the Apache License, the GNU GPL and the GNU LGPL. Provide some indications as to why a developer may want to choose one license over another when releasing their own code. [40 marks]
-
+- Question 1: A number of different licensing options have been discussed in the course.
+  - a. Provide a detailed discussion of the differences between the Apache License, the GNU GPL and the GNU LGPL. Provide some indications as to why a developer may want to choose one license over another when releasing their own code. [40 marks]
+  - b. Dual licensing with GPL, such as the MySQL licensing is an option. Discuss how this would affect the use of a MySQL database for use in software that you wanted to sell as a commercial product. [10 marks]
+- Question 3: This question is on the subject of software patents, and it is based upon the guest lecture given by Richard M Stallman on 31st October 2011. The talk was essentially the same as given on 8 October 2009 at Victoria University of Wellington, the transcript of which you have studied.
+  - a. Describe the fundamental differences between the concepts of Copyright and Patent. [5 marks]
+  - b. Using an analogy, possibly from music, illustrate how software patents can be detrimental to the software industry because of the combinatorial nature of software design. [20 marks]
+  - c. The patent system was apparently initially devised to protect the rights of ‘the starving genius’, and this argument is often repeated to defend the system itself. Discuss how the patent system is used by large corporations and how this negates the argument and therefore weakens the purpose of having a patent system for software at all. [25 marks]
