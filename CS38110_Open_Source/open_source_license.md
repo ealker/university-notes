@@ -16,21 +16,22 @@ _Intellectual property (IP) refers to creations of the mind, such as inventions;
 
 ---
 
-
 # Licenses 
 There are [many open source licenses](https://opensource.org/licenses) that developers and organisations [can use](https://choosealicense.com/) when they release their software. The licenses that are included in Aberystwyth's CS38110 module are MIT, GNU GPL, BSD and Apache. 
 
-## Permissive licenses: MIT, Apache and BSD
+There are **two main types** of licenses used in open source projects, permissive licenses and copyleft licenses.
 
-### MIT 
-
-Projects: X.Org, JQuery, Node.js, Ruby on Rails, Lua, Jenkins, MS VS Code 
-
-### BSD 
+## Permissive Licenses: Apache, BSD & MIT
 
 ### Apache 
 
-## Copyleft Licenses
+### BSD: Berkeley Software Distribution
+
+### MIT: Massachusetts Institute of Technology
+Projects that use MIT: X.Org, JQuery, Node.js, Ruby on Rails, Lua, Jenkins, MS VS Code 
+
+
+## Copyleft Licenses: GNU GPL
 
 > _""Copyleft licenses" require licensee to license specific developments (if they are not restricted to internal use) to anyone under the original license. This ensures that everyone who profits from open-source software will offer their developments to the developer community."_ from the [Institue for Legal Questions on Free and Open Source Software](https://www.ifross.org/en/what-types-licenses-are-there-open-source-software-and-how-do-they-differ).
 
@@ -50,4 +51,4 @@ GPLv3 was first published on June 29th 2007.
 
 The GNU Lesser General Public License allows developers to use software components released under the license in their proprietary projects. Such projects are not then subject to the copyleft clauses that the GPL imposes. However, any modification to a piece of LGPL software has to be released under the same LGPL license. 
 
-## Proprietary Licenses
+## Proprietary Licenses: 
