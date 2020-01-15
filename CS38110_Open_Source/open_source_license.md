@@ -27,6 +27,8 @@ Projects: X.Org, JQuery, Node.js, Ruby on Rails, Lua, Jenkins, MS VS Code
 
 ## Copyleft Licenses
 
+> _""Copyleft licenses" require licensee to license specific developments (if they are not restricted to internal use) to anyone under the original license. This ensures that everyone who profits from open-source software will offer their developments to the developer community."_ from the [Institue for Legal Questions on Free and Open Source Software](https://www.ifross.org/en/what-types-licenses-are-there-open-source-software-and-how-do-they-differ).
+
 ### GPL 
 
 GPL violations - modifying and redistruibtion of code. 
