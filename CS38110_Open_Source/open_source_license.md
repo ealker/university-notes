@@ -9,7 +9,9 @@ _Intellectual property (IP) refers to creations of the mind, such as inventions;
 - Trademarks 
 
 
-- Copyleft 
+- Copyleft: _"Copyleft, distinguished from copyright, is the practice of offering people the right to freely distribute copies and modified versions of a work with the stipulation that the same rights be preserved in derivative works created later."_
+
+
 - Patent Pools 
 
 # Licenses 
@@ -31,10 +33,14 @@ Projects: X.Org, JQuery, Node.js, Ruby on Rails, Lua, Jenkins, MS VS Code
 
 ### GPL 
 
+The GNU General Public License was first written by Richard Stallman (RMS) and published by the Free Software Foundation (FSF) in 1989. 
+
 GPL violations - modifying and redistruibtion of code. 
 
 "Any code which links to GPL’ed code becomes GPL’ed"
 
 #### What is the difference between GPLv2 and GPLv3? 
+
+GPLv3 was first published on June 29th 2007. 
 
 ## Proprietary Licenses
