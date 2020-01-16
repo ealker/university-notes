@@ -42,21 +42,37 @@ Based off of the [lecture](http://users.aber.ac.uk/mjh25/cs381/reveal/L9-Permiss
 
 Permissive licenses impose no restrictions on developers that their source code should remain open. 
 
-### Apache 
+### MIT: Massachusetts Institute of Technology
+Projects that use MIT: X.Org, JQuery, Node.js, Ruby on Rails, Lua, Jenkins, MS VS Code 
 
-Apache is the most complex of the permissive licenses. 
-
-Projects that use Apache: most of Apache Software Foundation projects use versions 1.x, whereas version 2.0 are in use by non-ASF projects. 
+MIT is perhaps the simplest of the permissive licenses. It opens with a copyright statement which follows with the year and copyright holder. The rest of the license surrenders the rights normally given to a copyright holder. States that the software is presented "as is" and that it does not have a warranty. It grants the user the ability to distribute, modify, etc. the source code that the license covers. 
 
 ### BSD: Berkeley Software Distribution
 From the University of California Berkeley.
 
 Projects that use BSD: Unix, FreeBSD, NetBSD, OpenBSD (basis of macOS).
 
-### MIT: Massachusetts Institute of Technology
-Projects that use MIT: X.Org, JQuery, Node.js, Ruby on Rails, Lua, Jenkins, MS VS Code 
+BSD is slightly more restrictive than the MIT license. It stipulates that any redistributions must retain the BSD copyright notice, conditions and disclaimer. It also states that the name of the organisation nor the names of the contributors may be used to endorse or promote derivative products without prior written permission. This protects creators from defamation against any derivative works. 
 
-MIT is perhaps the simplest of the permissive licenses. It opens with a copyright statement which follows with the year and copyright holder. The rest of the license surrenders the rights normally given to a copyright holder. States that the software is presented "as is" and that it does not have a warranty. It grants the user the ability to distribute, modify, etc. the source code that the license covers. 
+There used to be an additional clause prior to 1999 that stated all advertising materials that mentioned a product released under BSD must display an acknowledgement: "This prooduct includes software developed by the <NAME_OF_ORG>.
+
+Facebook created a BSD+Patent license with an additional clause: "You won’t sue the licensor for patent infringement". This modified license would be terminated if any user or subsidiaries took financial interest in a patent assertion. 
+
+### Apache 
+
+Apache is the most complex of the permissive licenses. 
+
+Projects that use Apache: most of Apache Software Foundation projects use versions 1.x, whereas version 2.0 are in use by non-ASF projects. 
+
+Version 2 of the license was written and published in 2004, and is a departure from v1.x. 
+
+Any derivative works of software which has an Apache 2.0 license: 
+
+Patent clause: 
+
+- You can include code that’s patented if you hold the patent.
+- You grant anyone using (or modifying) the code the right to use that patent.
+- You lose your rights granted under the license, if you sue somebody else for patent violations arising from this software.
 
 ## Copyleft Licenses: GNU GPL
 
@@ -65,6 +81,8 @@ MIT is perhaps the simplest of the permissive licenses. It opens with a copyrigh
 ### GNU GPL 
 
 The GNU General Public License was first written by Richard Stallman (RMS) and published by the Free Software Foundation (FSF) in 1989. 
+
+"Any code which links to GPL’ed code becomes GPL’ed"
 
 GPL violations - modifying and redistruibtion of code. 
 
