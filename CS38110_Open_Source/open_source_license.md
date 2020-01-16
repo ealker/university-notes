@@ -56,7 +56,7 @@ Projects that use BSD: Unix, FreeBSD, NetBSD, OpenBSD (basis of macOS).
 ### MIT: Massachusetts Institute of Technology
 Projects that use MIT: X.Org, JQuery, Node.js, Ruby on Rails, Lua, Jenkins, MS VS Code 
 
-MIT i
+MIT is perhaps the simplest of the permissive licenses. It opens with a copyright statement which follows with the year and copyright holder. The rest of the license surrenders the rights normally given to a copyright holder. States that the software is presented "as is" and that it does not have a warranty. It grants the user the ability to distribute, modify, etc. the source code that the license covers. 
 
 ## Copyleft Licenses: GNU GPL
 
