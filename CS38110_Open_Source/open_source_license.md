@@ -113,7 +113,17 @@ The GNU Lesser General Public License allows developers to use software componen
 
 ### 2014-15
 
-### 2015-16 
+- Question 1: This question concerns the licensing of free and open source software.
+  - a) Describe five reasons why software patents are a problem for free and open source software and describe the protections against software patents in version 3 of the GNU Public License (GPLv3) and the version 2.0 of the Apache License. [15 marks]
+  - b) It is often said that permissive licenses (such as MIT, Apache and BSD) represent a more pragmatic approach to free and open source licensing, while Copyleft licenses (such as the GNU Public License) take a more purist view. Discuss the key differences between the permissive and Copyleft licenses (with reference to both weak and strong Copyleft). Explain what implications the choice of license might have for the inclusion of code under those licenses in other pieces of software and why a developer might choose one type of license over the other. [35 marks]
+
+### 2015-16
+
+- Question 2:
+  - a) Describe the terms of an academic or permissive license (such as MIT, BSD, Apache or Academic Free License) [15 marks]
+  - b) Describe the terms of the GNU General Public License. [15 marks]
+  - c) Provide a detailed discussion of the differences between the “Academic” licenses (MIT, BSD, Apache and Academic Free License), the GNU General Public License and typical proprietary licenses. Provide some indications as to why a developer may want to choose one license over another when releasing their own code. [20 marks]
+
 
 ### 2016-17
 
