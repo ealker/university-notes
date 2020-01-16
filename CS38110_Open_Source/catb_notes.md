@@ -6,7 +6,7 @@ Property and ownership with OSS.
 
 Lockean theory of ownership. 
 
-## The Magic Cauldron
+## [The Magic Cauldron](http://www.catb.org/~esr/writings/cathedral-bazaar/magic-cauldron/)
 
 Economics of OSS. Answers the question of "How do I make money with open source software?".
 
@@ -17,19 +17,22 @@ Manufacturing Delusion
  
  Tradegy of the Commons 
  
- - Over consumption, under investment 
+ - Over consumption, under investment.
  - Arises when an individual has an incentive to consume to the detriment of others. 
  - Personal gain over common good. 
  
  Indirect Sales 
  
  - Loss Leader 
- - Widget Frosting 
- - Recipe/Restaurant 
- - Accessorising 
+  - Open source the software in order to buy proprietary software. Open source client but closed source server software, for example.
+ - Widget Frosting
+  - For hardware manufacturers. 
+ - Recipe/Restaurant
+  - For services like RHEL.
+ - Accessorising
+  - Open source the software but sell accessories to that - high end documentation or low end stuff like T-Shirts.
  - Free Future, Sell Present
   - Sell the current version, open source and make the previous version free.
  - Free Software, Sell Brand 
   - Arduino release diagrams, you can buy cheap boards because of this. Most people buy the premium boards from Arduino.
-  - Software Support 
-    - Most people aren't technical so you can sell them support services, perhaps even on a MRR
+
