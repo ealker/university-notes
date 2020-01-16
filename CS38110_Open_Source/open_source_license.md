@@ -4,19 +4,24 @@
 
 _Intellectual property (IP) refers to creations of the mind, such as inventions; literary and artistic works; designs; and symbols, names and images used in commerce._ from [WIPO](https://www.wipo.int/about-ip/en/)
 
-- Copyright
-- Patents 
-- Trademarks 
+### Copyright
+### Patents 
+### Trademarks
+_"An officially registered recognisable sign, design or expression which identifies a product, service or business."_
+
+Used by product logos, branding etc. Might be used to certify products. The organisation holding the trademark grants those it certifies permission to use their mark on a product.
 
 
-- Copyleft: _"Copyleft, distinguished from copyright, is the practice of offering people the right to freely distribute copies and modified versions of a work with the stipulation that the same rights be preserved in derivative works created later."_
+### Copyleft
+_"Copyleft, distinguished from copyright, is the practice of offering people the right to freely distribute copies and modified versions of a work with the stipulation that the same rights be preserved in derivative works created later."_
 
-
-- Patent Pools
+### Patent Pools
 
 ---
 
 # Licenses 
+Legal contract regarding the use and distribution of software. Grants the user rights to use the software in exchange for agreeing to the terms.
+
 There are [many open source licenses](https://opensource.org/licenses) that developers and organisations [can use](https://choosealicense.com/) when they release their software. The licenses that are included in Aberystwyth's CS38110 module are MIT, GNU GPL, BSD and Apache. 
 
 There are **two main types** of licenses used in open source projects, permissive licenses and copyleft licenses.
