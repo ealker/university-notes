@@ -20,7 +20,11 @@ _"Copyleft, distinguished from copyright, is the practice of offering people the
 ---
 
 # Licenses 
-Legal contract regarding the use and distribution of software. Grants the user rights to use the software in exchange for agreeing to the terms.
+Legal contract regarding the use and distribution of software. Grants the user rights to use the software in exchange for agreeing to the terms. Copyright allows creators to require a user to agree to their term, which is done through a EULA (End User License Agreement). A EULA has terms often include restrictions on redistribution, reverse engineering, multiple users etc.
+Users don’t normally sign a contract.
+They agree through:
+Shrink Wrap Licensing
+Click Through Licensing
 
 There are [many open source licenses](https://opensource.org/licenses) that developers and organisations [can use](https://choosealicense.com/) when they release their software. The licenses that are included in Aberystwyth's CS38110 module are MIT, GNU GPL, BSD and Apache. 
 
@@ -32,7 +36,14 @@ Based off of the [lecture](http://users.aber.ac.uk/mjh25/cs381/reveal/L9-Permiss
 
 ### Apache 
 
+Apache is the most complex of the permissive licenses. 
+
+Projects that use Apache: most of Apache Software Foundation projects use versions 1.x, whereas version 2.0 are in use by non-ASF projects. 
+
 ### BSD: Berkeley Software Distribution
+From the University of California Berkeley.
+
+Projects that use BSD: Unix, FreeBSD, NetBSD, OpenBSD (basis of macOS).
 
 ### MIT: Massachusetts Institute of Technology
 Projects that use MIT: X.Org, JQuery, Node.js, Ruby on Rails, Lua, Jenkins, MS VS Code 
