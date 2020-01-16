@@ -26,13 +26,13 @@ Manufacturing Delusion
  - Loss Leader 
   - Open source the software in order to buy proprietary software. Open source client but closed source server software, for example.
  - Widget Frosting
-  - For hardware manufacturers. 
+   - For hardware manufacturers. 
  - Recipe/Restaurant
-  - For services like RHEL.
+   - For services like RHEL.
  - Accessorising
-  - Open source the software but sell accessories to that - high end documentation or low end stuff like T-Shirts.
+   - Open source the software but sell accessories to that - high end documentation or low end stuff like T-Shirts.
  - Free Future, Sell Present
-  - Sell the current version, open source and make the previous version free.
+   - Sell the current version, open source and make the previous version free.
  - Free Software, Sell Brand 
-  - Arduino release diagrams, you can buy cheap boards because of this. Most people buy the premium boards from Arduino.
+   - Arduino release diagrams, you can buy cheap boards because of this. Most people buy the premium boards from Arduino.
 
