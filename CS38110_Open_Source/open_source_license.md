@@ -38,6 +38,10 @@ There are **two main types** of licenses used in open source projects, permissiv
 
 Based off of the [lecture](http://users.aber.ac.uk/mjh25/cs381/reveal/L9-Permissive_licenses.html) by [Malcolm Hutchison](https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/mjh25/).
 
+> Read [this book](http://class-95799.heinz.cmu.edu/doc/Open-Source-books/Understanding-Open-Source/openbook/osfreesoft/book/ch02.pdf) from O 'Reilly 
+
+Permissive licenses impose no restrictions on developers that their source code should remain open. 
+
 ### Apache 
 
 Apache is the most complex of the permissive licenses. 
@@ -52,6 +56,7 @@ Projects that use BSD: Unix, FreeBSD, NetBSD, OpenBSD (basis of macOS).
 ### MIT: Massachusetts Institute of Technology
 Projects that use MIT: X.Org, JQuery, Node.js, Ruby on Rails, Lua, Jenkins, MS VS Code 
 
+MIT i
 
 ## Copyleft Licenses: GNU GPL
 
