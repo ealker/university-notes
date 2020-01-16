@@ -7,6 +7,11 @@ _Intellectual property (IP) refers to creations of the mind, such as inventions;
 ### Copyright
 _"Copyright is a legal term used to describe the rights that creators have over their literary and artistic works. Works covered by copyright range from books, music, paintings, sculpture and films, to computer programs, databases, advertisements, maps and technical drawings."_ from [WIPO](https://www.wipo.int/copyright/en/)
 
+Copyright has term lengths. In the United States, copyright lasts for the lifetime of the creator plus 70 years. If there is no single creator, the term lasts for 95 years from the publication of the work or 120 years from the intial creation, whichever is shorter. Copyright can be extended so that works can have copyright in perpetuity. In the United Kingdom, copyright lasts for 50 years after the release, 50 years after first broadcast or 70 years after first making a recording if the work has not been released. All other works in the EU have copyright of the lifetime plus 70 years.  
+
+Fair use is also an important term - it includes any non-infringing use of copyrighted material (comments, parody, criticism, transformative derivative works). In the UK, fair dealing was more restrictive until 2014 when copyrighted works could be parodied, copies could be made for personal use and works could be backedup and/or format shifted. 
+
+
 ### Patents 
 _"A patent is an exclusive right granted for an invention. Generally speaking, a patent provides the patent owner with the right to decide how - or whether - the invention can be used by others. In exchange for this right, the patent owner makes technical information about the invention publicly available in the published patent document."_ from [WIPO](https://www.wipo.int/patents/en/)
 
