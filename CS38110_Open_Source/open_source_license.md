@@ -5,7 +5,11 @@
 _Intellectual property (IP) refers to creations of the mind, such as inventions; literary and artistic works; designs; and symbols, names and images used in commerce._ from [WIPO](https://www.wipo.int/about-ip/en/)
 
 ### Copyright
+_"Copyright is a legal term used to describe the rights that creators have over their literary and artistic works. Works covered by copyright range from books, music, paintings, sculpture and films, to computer programs, databases, advertisements, maps and technical drawings."_ from [WIPO](https://www.wipo.int/copyright/en/)
+
 ### Patents 
+_"A patent is an exclusive right granted for an invention. Generally speaking, a patent provides the patent owner with the right to decide how - or whether - the invention can be used by others. In exchange for this right, the patent owner makes technical information about the invention publicly available in the published patent document."_ from [WIPO](https://www.wipo.int/patents/en/)
+
 ### Trademarks
 _"An officially registered recognisable sign, design or expression which identifies a product, service or business."_
 
