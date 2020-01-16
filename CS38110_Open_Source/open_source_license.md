@@ -15,6 +15,8 @@ Fair use is also an important term - it includes any non-infringing use of copyr
 ### Patents 
 _"A patent is an exclusive right granted for an invention. Generally speaking, a patent provides the patent owner with the right to decide how - or whether - the invention can be used by others. In exchange for this right, the patent owner makes technical information about the invention publicly available in the published patent document."_ from [WIPO](https://www.wipo.int/patents/en/)
 
+Patents cannot be non-tangiable entities, business process or algorithms (outside of the US). Patent disputes are often costly affairs and out of court settlements between parties are common. 
+
 ### Trademarks
 _"An officially registered recognisable sign, design or expression which identifies a product, service or business."_
 
