@@ -36,3 +36,13 @@ Manufacturing Delusion
  - Free Software, Sell Brand 
    - Arduino release diagrams, you can buy cheap boards because of this. Most people buy the premium boards from Arduino.
 
+## Past Papers 
+
+### 2014-15 
+
+- Question 2: This question concerns economics of open source development. 
+  - a) Describe the differences between an exchange economy and a gift economy. Discuss why development of free and open source software often resembles a gift economy instead of an exchange economy. [10 marks]
+  - b) Briefly discuss the difficulties in recouping the cost of open source software development using a direct sales model. [5 marks]
+  - c) Describe five alternative sales strategies for recouping the cost of open source software development. [15 marks]
+  - d) In some software markets (for example web servers) open source products have come to dominate, yet in others (for example desktop operating systems) they still only hold a minority share of the market. Discuss, with reference to relevant examples, what barriers have prevented open source products from gaining a foothold in some markets and the factors that have allowed it to flourish in others. You are expected to give two or three barriers and another two or three factors that have allowed open source to flourish. [20 marks]
+
