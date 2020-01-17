@@ -24,7 +24,7 @@ Manufacturing Delusion
  Indirect Sales 
  
  - Loss Leader 
-  - Open source the software in order to buy proprietary software. Open source client but closed source server software, for example.
+   - Open source the software in order to buy proprietary software. Open source client but closed source server software, for example.
  - Widget Frosting
    - For hardware manufacturers. 
  - Recipe/Restaurant
