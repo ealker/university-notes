@@ -1,12 +1,43 @@
 # The Cathedral and the Bazaar Notes 
 
-## Homesteading the Noosphere 
+## Four Freedoms
+
+Two types of free - libre (as in free speech) and gratis (as in free beer). A program is free software if the program's users have the four essential freedoms:
+
+- The freedom to run the program as you wish, for any purpose (freedom 0).
+- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+- The freedom to redistribute copies so you can help others (freedom 2).
+- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+
+## The Cathederal and the Bazaar 
+
+## [Homesteading the Noosphere](http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/) 
 
 Property and ownership with OSS.
 
 Lockean theory of ownership. 
 
+### Past Papers
 
+#### 2014-15
+
+- Question 2: This question concerns economics of open source development.
+  - a) Describe the differences between an exchange economy and a gift economy. Discuss why development of free and open source software often resembles a gift economy instead of an exchange economy. [10 marks]
+
+#### 2016-17 
+
+- Question 2: “The owner of an open source software project is the person who has the exclusive right, recognised by the community at large, to distribute modified versions.” Homesteading the Noosphere — Eric S. Raymond (1999)
+  - a) Name and describe in detail the three ways in which the ownership of a software project can be acquired. [15 marks]
+  - b) Describe how the above might relate to the Lockean theory of property, and the Anglo-American common-law theory of land tenure. [15 marks]
+  - c) Provide an in-depth discussion of how Open Source Development might be viewed as a Gift Culture. Compare to the possibility of the craftsmanship
+model. [20 marks]
+
+#### 2018-19 
+
+- Question 2: 
+  - c) There are three ways that you can become the owner of an Open Source project. What are these (briefly explain)? [9]
+  - d) Explain the concept of homesteading, as used in the chapter Homesteading the Noosphere. What areas might there still be in the open source noosphere that are still to be claimed? (You may recall a discussion we had about this in lectures, where some good ideas were suggested.) [11]
 
 ## [The Magic Cauldron](http://www.catb.org/~esr/writings/cathedral-bazaar/magic-cauldron/)
 
