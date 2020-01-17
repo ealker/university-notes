@@ -97,7 +97,9 @@ GPL violations - modifying and redistruibtion of code.
 
 #### Differences between GPLv2 and GPLv3? 
 
-GPLv3 was first published on June 29th 2007. 
+GPLv3 was first published on June 29th 2007. GPLv3 is highly controversial - it allows DRM to be implemented but users of the license cannot be held liable if they circumnavigate those DRM protections. 
+
+You are not required to accept the GPLv3 license in order to run a copy, but you must do to run the program. Under GPLv3 you must write prominent notices regarding any modifications made.  
 
 #### GNU LGPL
 
