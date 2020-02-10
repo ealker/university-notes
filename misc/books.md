@@ -10,17 +10,17 @@ University reading lists can be found [here](http://aspire.aber.ac.uk/index.html
 
 - **Introduction to Algorithms** by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.
 
-CS10220 Introduction to Computer Infrastructure
+### CS10220 Introduction to Computer Infrastructure
 
-CS12020 Introduction to Programming
+### CS12020 Introduction to Programming
 
-CS12320 Programming Using an Object-Oriented Language
+### CS12320 Programming Using an Object-Oriented Language
 
-CS15020 Web Development Tools
+### CS15020 Web Development Tools
 
-CS18010 Personal and Professional Development
+### CS18010 Personal and Professional Development
 
-PH19510 Chaos, Communication and Consciousness
+### PH19510 Chaos, Communication and Consciousness
 
 ## Year 2 
 
