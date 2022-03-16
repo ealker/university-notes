@@ -51,3 +51,22 @@ My notes for Aberystwyth University's 2nd year CompSci Course.
 
 [CS27020 Module Information](https://www.aber.ac.uk/en/modules/deptcurrent/CS27020/)  
 [CS27020 Notes](/CS27020)
+
+## 1st Year Notes 
+
+
+
+## Supplementary Notes 
+
+You can get a lot more out of higher education if you go beyond reading the basic lecture notes and completeing your assignments. I wasn't always the best at doing the basics, but I always read beyond what was required. I have a good understaning of CS concepts because of this. Here is a list of good resources for you to extend your education: 
+
+### CS Reading 
+- [Teach Yourself CS](teachyourselfcs.com)
+- [Notes to Freshman](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)
+- [High School Guide to ML](https://github.com/kjaisingh/high-school-guide-to-machine-learning)
+- [Distributed Systems Reading List](https://dancres.github.io/Pages/)
+- [Your Missing Semester of CS](https://missing.csail.mit.edu) - this will get you ready for a job/internship. Don't leave it till third year.
+- [Awesome Lists](https://github.com/sindresorhus/awesome) - Learn practically anything with these lists.
+
+### Thinking about how you learn
+- [Developing Mental Framework for Thinking](https://fs.blog/mental-framework/)
