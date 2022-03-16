@@ -67,6 +67,8 @@ You can get a lot more out of higher education if you go beyond reading the basi
 - [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [Your Missing Semester of CS](https://missing.csail.mit.edu) - this will get you ready for a job/internship. Don't leave it till third year.
 - [Awesome Lists](https://github.com/sindresorhus/awesome) - Learn practically anything with these lists.
+- [Computer Systems: A Programmer's Perspective (Carnegie Mellon)](http://csapp.cs.cmu.edu) - an amazing resource for learning low level CS.
+- [Nand2Tetri](https://www.nand2tetris.org) - like the above. 
 
 ### Thinking about how you learn
 - [Developing Mental Framework for Thinking](https://fs.blog/mental-framework/)
